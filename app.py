@@ -141,3 +141,4 @@ if st.button("Generate research brief", type="primary"):
             logger.info(
                 "Request finished in %.2f seconds", elapsed
             )
+        # CI workflow trigger test
